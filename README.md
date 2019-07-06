@@ -1,5 +1,5 @@
 # vue-sortable-list-component
-use dependency @shopify/draggable
+simple drop and drag sorting (use dependency @shopify/draggable)
 
 ## Project setup
 ```
