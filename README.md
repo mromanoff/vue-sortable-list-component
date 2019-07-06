@@ -1,4 +1,5 @@
 # vue-sortable-list-component
+use dependency @shopify/draggable
 
 ## Project setup
 ```
